@@ -1,0 +1,21 @@
+# Secrets
+.env
+
+# Data (download from Kaggle instead)
+data/*.csv
+*.csv
+
+# Jupyter
+.ipynb_checkpoints/
+
+# Python
+__pycache__/
+*.pyc
+venv/
+.venv/
+
+# OS / editor
+.DS_Store
+Thumbs.db
+.vscode/
+.idea/
