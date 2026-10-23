@@ -37,13 +37,13 @@ Kaggle download → load into PostgreSQL (Python) → analysis in Python via SQL
 - Revenue excludes freight.
 
 ## Visuals
-![RFM](images/rfm_segmentation.png)
-![Cohorts](images/cohort_retention_analysis.png)
-![Delivery](images/delivery_reviews.png)
-![Sellers](images/seller_health.png)
+![RFM](https://github.com/rohit9354rajput/olist-ecommerce-analytics/blob/main/Image/RFM%20segmentation.png)
+![Cohorts](https://github.com/rohit9354rajput/olist-ecommerce-analytics/blob/main/Image/cohort_retention_analysis.png)
+![Delivery](https://github.com/rohit9354rajput/olist-ecommerce-analytics/blob/main/Image/delivery_reviews%20-%20Copy.png)
+![Sellers](https://github.com/rohit9354rajput/olist-ecommerce-analytics/blob/main/Image/seller_health.png)
 
 ## How to Run
-1. Download the dataset: [Kaggle link]
+1. Download the dataset: [Kaggle link](https://www.kaggle.com/datasets/olistbr/brazilian-ecommerce)
 2. Put the CSVs in `data/`
 3. `pip install -r requirements.txt`
 4. Copy `.env.example` to `.env` and add your PostgreSQL credentials
