@@ -1,0 +1,9 @@
+pandas
+numpy
+sqlalchemy (create_engine, text)
+matplotlib
+seaborn
+psycopg2-binary
+python-dotenv
+jupyter
+Database-URl ("postgresql+psycopg://postgres:your_passcode@localhost:5432/olist_ecommerce")
