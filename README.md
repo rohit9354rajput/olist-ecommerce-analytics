@@ -50,4 +50,5 @@ Kaggle download → load into PostgreSQL (Python) → analysis in Python via SQL
 5. Run the notebooks in order
 
 ## Author
-Tanay Gandhi | [tanay.website]
+Rohit Singh | [rohit.linkedin](https://www.linkedin.com/in/rohit-singh-386755257)
+
